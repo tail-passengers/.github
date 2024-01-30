@@ -1,8 +1,8 @@
-## tail-passengers
+# Tail-passengers
 
-### 팀원
+## Passengers
 
-#### Front-end
+### Front-end
 <table>
   <tbody>
     <tr>
@@ -13,7 +13,7 @@
   </tbody>
 </table>
 
-#### Back-end
+### Back-end
 <table>
   <tbody>
     <tr>
@@ -23,7 +23,7 @@
   </tbody>
 </table>
 
-### Modeule
+## Modeule
 
 - [x] `Web Major` Use a Framework as backend
 - [x] `Web Minor` Use a front-end framework or toolkit
