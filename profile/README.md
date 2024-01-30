@@ -1,12 +1,54 @@
-## Hi there 👋
+## tail-passengers
 
-<!--
+### 팀원
 
-**Here are some ideas to get you started:**
+#### Front-end
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/jaekkang"><img src="https://avatars.githubusercontent.com/u/45617104?v=4"width="100px;" alt=""/><br /><sub><b>강재권</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sngsho"><img src="https://avatars.githubusercontent.com/u/96572410?v=4" width="100px;" alt=""/><br /><sub><b>이승효</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/YunjooCho"><img src="https://avatars.githubusercontent.com/u/73283078?v=4" width="100px;" alt=""/><br /><sub><b>조윤주</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Back-end
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Kdelphinus"><img src="https://avatars.githubusercontent.com/u/68101516?v=4"width="100px;" alt=""/><br /><sub><b>고명준</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/guune"><img src="https://avatars.githubusercontent.com/u/108771739?v=4" width="100px;" alt=""/><br /><sub><b>홍규선</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+### Modeule
+
+- [x] `Web Major` Use a Framework as backend
+- [x] `Web Minor` Use a front-end framework or toolkit
+- [x] `Web Minor` Use a database for the backend
+- [ ] `Web Major` Store the score of a tournament in the Blockchain
+- [x] `User Management Major` Standard user management, authentication, users across tournaments
+- [ ] `User Management Major` Implementing a remote authentication
+- [x] `Gameplay & UX Major` Remote players
+- [ ] `Gameplay & UX Major `Multiplayers (more than 2 in the same game)
+- [ ] `Gameplay & UX Major` Add Another Game with User History and Matchmaking
+- [x] `Gameplay & UX Minor` Game Customization Options
+- [ ] `Gameplay & UX Major` Live chat
+- [ ] `AI-Algo Major` Introduce an AI Opponent
+- [ ] `AI-Algo Minor` User and Game Stats Dashboards
+- [ ] `Cybersecurity Major` Implement WAF/ModSecurity with Hardened Configuration and HashiCorp Vault for Secrects Management
+- [ ] `Cybersecurity Minor` GDPR Compliance Options with User Anonymization, Local Data Management, and Account Deletion
+- [x] `Cybersecurity Major` Implement Two-Factor Authentication (2FA) and JWT
+- [x] `Devops Major` Infrastructure Setup for Log Management
+- [ ] `Devops Minor` Monitoring system
+- [ ] `Devops Major` Designing the Backend as Microservices
+- [x] `Graphics Major` Use of advanced 3D techniques
+- [ ] `Accessibility Minor` Support on all devices
+- [ ] `Accessibility Minor` Expanding Browser Compatibility
+- [x] `Accessibility Minor` Multiple language supports
+- [ ] `Accessibility Minor` Add accessibility for Visually Impaired Users
+- [ ] `Accessibility Minor` Server-Side Rendering (SSR) Integration
+- [ ] `Object oriented Major` Replacing Basic Pong with Server-Side Pong and Implementing an API
+- [ ] `Object oriented Major` Enabling Pong Gameplay via CLI against Web Users with API Integration
