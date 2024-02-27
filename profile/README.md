@@ -30,18 +30,18 @@
 - [x] `Web Minor` Use a database for the backend
 - [ ] `Web Major` Store the score of a tournament in the Blockchain
 - [x] `User Management Major` Standard user management, authentication, users across tournaments
-- [ ] `User Management Major` Implementing a remote authentication
+- [x] `User Management Major` Implementing a remote authentication
 - [x] `Gameplay & UX Major` Remote players
 - [ ] `Gameplay & UX Major `Multiplayers (more than 2 in the same game)
 - [ ] `Gameplay & UX Major` Add Another Game with User History and Matchmaking
 - [x] `Gameplay & UX Minor` Game Customization Options
 - [ ] `Gameplay & UX Major` Live chat
 - [ ] `AI-Algo Major` Introduce an AI Opponent
-- [ ] `AI-Algo Minor` User and Game Stats Dashboards
+- [x] `AI-Algo Minor` User and Game Stats Dashboards
 - [ ] `Cybersecurity Major` Implement WAF/ModSecurity with Hardened Configuration and HashiCorp Vault for Secrects Management
 - [ ] `Cybersecurity Minor` GDPR Compliance Options with User Anonymization, Local Data Management, and Account Deletion
-- [x] `Cybersecurity Major` Implement Two-Factor Authentication (2FA) and JWT
-- [x] `Devops Major` Infrastructure Setup for Log Management
+- [ ] `Cybersecurity Major` Implement Two-Factor Authentication (2FA) and JWT
+- [ ] `Devops Major` Infrastructure Setup for Log Management
 - [ ] `Devops Minor` Monitoring system
 - [ ] `Devops Major` Designing the Backend as Microservices
 - [x] `Graphics Major` Use of advanced 3D techniques
